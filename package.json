@@ -1,0 +1,8 @@
+{
+  "name": "dispatchable-store-logger",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/MaxMEllon/dispatchable-store-logger.git",
+  "author": "MaxMEllon <maxmellon1994@gmail.com>",
+  "license": "MIT"
+}
